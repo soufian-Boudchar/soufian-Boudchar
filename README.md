@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋 Welcome to My Coding World!</h2>
+<h1>👋 Welcome to My Coding World!</h2>
 
 <p align="center">
   <picture>
