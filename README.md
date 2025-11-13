@@ -1,17 +1,23 @@
+<div align="center">
+
 <h2>👋 Welcome to My Coding World!</h2>
 
-<p>
-  <img 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY" 
-    alt="Hello World Pixel Art" 
-    width="600" 
-    height="340" 
-    style="border-radius: 15px;" />
+<p align="center">
+  <picture>
+    <img 
+      src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY" 
+      alt="Hello World Pixel Art" 
+      width="600" 
+      height="340" 
+      style="border-radius: 15px;" />
+  </picture>
 </p>
 
 <details>
-  <summary><strong>💭 Quote</strong></summary>
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+  <summary><strong>💭 Something to think about :</strong></summary>
+  <br>
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+  <br>– Cory House
 </details>
 
 <p>
@@ -35,8 +41,27 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/42_Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Network">
+<img src="https://img.shields.io/badge/1337_School-000000?style=for-the-badge&logo=42&logoColor=white" alt="1337">
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
+
+---
+
+```dart
+// My Tools Setup 🔧
+class About extends Me {
+  const myTools = {
+    "ProgrammingLanguages": { "C", "Python", "Java", "PHP" },
+    "Frameworks": { "Laravel" },
+    "Web": { "HTML", "CSS" },
+    "Schools": { "42 Network", "1337" },
+    "Database": { "MySQL", "SQLite" },
+    "Editors": { "VSCode", "Neovim" },
+    "Platforms": { "GNU/Linux", "Windows" },
+    "Other": { "Git", "Figma" }
+  };
+}
