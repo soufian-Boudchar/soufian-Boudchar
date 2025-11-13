@@ -6,10 +6,7 @@
   <picture>
     <img 
       src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" 
-      alt="Hello World Pixel Art" 
-      width="600" 
-      height="340" 
-      style="border-radius: 15px;" />
+      alt="Hello World Pixel Art"/>
   </picture>
 </p>
 
