@@ -63,3 +63,7 @@ class About extends Me {
     "Other": { "Git", "Figma" }
   };
 }
+```
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" width="100%" style="max-width: 800px;"/>
+</p>
