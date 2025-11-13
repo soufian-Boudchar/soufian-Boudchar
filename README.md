@@ -2,7 +2,11 @@
 
 <h2>👋 Welcome to My Coding World!</h2>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jZdwlJXEIpMkhjY-7NcPvs9L8B46D4J7WnaR3Txl1PY" alt="Pixel Art Small" width="70%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jZdwlJXEIpMkhjY-7NcPvs9L8B46D4J7WnaR3Txl1PY" 
+     alt="Pixel Art Small" 
+     width="55%" 
+     style="border-radius: 20px; height: auto; aspect-ratio: 16/9; object-fit: cover;"/>
+
 <br>
 
 <details>
