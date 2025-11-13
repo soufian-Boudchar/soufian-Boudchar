@@ -21,8 +21,8 @@
   <br>– Cory House
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/soufianboudchar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soufian_boudchar?igsh=MWl6cjRpZXp0aGtxNg==)
 
 </div>
 
